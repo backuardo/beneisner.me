@@ -1,0 +1,14 @@
+body {
+  background-color: #0e2027;
+  text-align: center;
+}
+
+h1 {
+  color: #d7f75b;
+  font-family: "Creepster", cursive;
+  font-size: 120px;
+}
+
+.centered {
+  display: inline-block;
+}
