@@ -1,2 +1,2 @@
 # beneisner.me :computer:
-### Domain for CS52
+### Domain for CS52 projects
